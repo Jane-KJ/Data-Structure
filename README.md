@@ -1,10 +1,7 @@
-# C++实现顺序表的基本操作
-- 顺序表操作内容：
-初始化、添加元素、删除元素、清空、销毁。
+# C++实现稀疏矩阵
+## 1. 三元组
+![image](https://user-images.githubusercontent.com/81895930/178533087-311c5d1e-71ab-4eb1-8bc2-4ed22627686d.png)
 
-- 顺序表特点：
-只有一个“第一个元素”和“最后一个元素”。除了头和尾，每个元素仅一个前驱，一个后驱。
-![image](https://user-images.githubusercontent.com/81895930/178459334-31aeb16c-3fca-4fc6-bba1-ca127373f80f.png)
-
-- 顺序表结构：
-![image](https://user-images.githubusercontent.com/81895930/178459546-4c31f8e4-65ba-49e1-a665-abd5ccb943b8.png)
+## 2. 十字链表
+![image](https://user-images.githubusercontent.com/81895930/178533121-6dc8a859-8a8a-4b8b-94e2-b04206801954.png)
+![image](https://user-images.githubusercontent.com/81895930/178533139-10d38144-2307-405f-95ef-78c37669ed70.png)
